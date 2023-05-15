@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Ryan 👋
+
+- 🔭 I’m currently working at [Dataspark](https://github.com/SingTel-DataCo) as Frontend Engineer
+- 🌱 I’m currently learning [Spring Boot](https://spring.io)
+- 📫 How to reach me at my [LinkedIn](https://www.linkedin.com/in/ryanadhi/)
 
 <!--
-**ryanadhi/ryanadhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
