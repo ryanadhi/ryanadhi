@@ -1,8 +1,10 @@
 ### Hi there, I'm Ryan 👋
 
 - 🔭 I’m currently working at [Dataspark](https://github.com/SingTel-DataCo) as Frontend Engineer
+- 💼 Mostly I'm working with [Next.js](https://github.com/vercel/next.js)
+- 💾 I used to work with [Node.js](https://github.com/nodejs)
 - 🌱 I’m currently learning [Spring Boot](https://spring.io)
-- 📫 How to reach me at my [LinkedIn](https://www.linkedin.com/in/ryanadhi/)
+- 📫 You can reach me at my [LinkedIn](https://www.linkedin.com/in/ryanadhi/)
 
 <!--
 
